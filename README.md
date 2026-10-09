@@ -16,8 +16,8 @@ A page can be completely correct and still feel flat. These are the moments wher
 | [A line that bends toward your cursor](https://github.com/miguelclavel/wave-line) | [A name that travels into the header](https://github.com/miguelclavel/scroll-into-header) |
 | [Screenshots that fly in from both sides](https://github.com/miguelclavel/interaction-recipes/tree/main/05-cards-from-sides) | [Images that turn into the frame for the text](https://github.com/miguelclavel/interaction-recipes/tree/main/06-images-frame-text) |
 | [A pixel dissolve from light into dark](https://github.com/miguelclavel/pixel-dissolve) | [A playable game in the footer](https://github.com/miguelclavel/pixel-run-game) |
-| [Case studies that ride a curve](https://github.com/miguelclavel/interaction-recipes/tree/main/09-case-study-carousel) | [A text selection colour that belongs to the brand](https://github.com/miguelclavel/interaction-recipes/tree/main/10-selection-colour) |
-| [A dark mode that remembers you](https://github.com/miguelclavel/dark-mode) | [The short version at the top of every case study](https://github.com/miguelclavel/interaction-recipes/tree/main/12-short-version) |
+| [Case studies that ride a curve](https://github.com/miguelclavel/curve-carousel) | [A text selection colour that belongs to the brand](https://github.com/miguelclavel/portfolio-details) |
+| [A dark mode that remembers you](https://github.com/miguelclavel/dark-mode) | [The short version at the top of every case study](https://github.com/miguelclavel/portfolio-details) |
 
 <img src="assets/dark-light.gif" width="100%" alt="The site switching between light and dark mode">
 
